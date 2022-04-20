@@ -7,7 +7,7 @@
 
 ## Some cool projects
 
-[![UpStream](https://github-readme-stats.vercel.app/api/pin/?username=paddecraft&repo=upstream&show_icons=true&theme=github_dark)]](https://github.com/paddecraft/upstream)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=paddecraft&repo=upstream&show_icons=true&theme=github_dark">](https://github.com/paddecraft/upstream)
 
 ## Statistics provided by
 
