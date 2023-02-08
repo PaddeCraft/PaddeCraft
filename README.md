@@ -9,6 +9,8 @@
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=paddecraft&repo=upstream&show_icons=true&theme=github_dark">](https://github.com/paddecraft/upstream)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=paddecraft&repo=log4py&show_icons=true&theme=github_dark">](https://github.com/paddecraft/log4py)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=paddecraft&repo=typenow&show_icons=true&theme=github_dark">](https://github.com/paddecraft/typenow)
+
 
 ## Statistics provided by
 
