@@ -15,3 +15,7 @@
 ## Statistics provided by
 
 [![github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Trophies
+
+[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=PaddeCraft&no-frame=true&no-bg=true&theme=darkhub&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
